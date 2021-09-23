@@ -43,7 +43,7 @@ class Kontak extends StatelessWidget {
 class Konten extends StatelessWidget {
   List<Map<String, dynamic>> daftar = [
     {
-      'nama': 'Muhammad Muhtadin Nurilhaq',
+      'nama': 'Muhammad Muhtadin Nuri',
       'email': 'adinexion@gmail.com',
       'nohp': '0895380046993',
       'foto': 'IMG_0304.jpg',
