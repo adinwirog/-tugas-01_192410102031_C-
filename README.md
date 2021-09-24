@@ -1,6 +1,8 @@
 # tugasflutter
 
-A new Flutter project.
+Nama : Muhammad Muhtadin Nurilhaq
+NIM : 192410102031
+Kelas : PBM C
 
 ## Getting Started
 
